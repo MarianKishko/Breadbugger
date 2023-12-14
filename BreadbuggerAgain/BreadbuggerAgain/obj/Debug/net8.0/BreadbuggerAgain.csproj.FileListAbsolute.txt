@@ -1,0 +1,15 @@
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\bin\Debug\net8.0\BreadbuggerAgain.exe
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\bin\Debug\net8.0\BreadbuggerAgain.deps.json
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\bin\Debug\net8.0\BreadbuggerAgain.runtimeconfig.json
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\bin\Debug\net8.0\BreadbuggerAgain.dll
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\bin\Debug\net8.0\BreadbuggerAgain.pdb
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.AssemblyInfoInputs.cache
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.AssemblyInfo.cs
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.csproj.CoreCompileInputs.cache
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.sourcelink.json
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.dll
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\refint\BreadbuggerAgain.dll
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.pdb
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\BreadbuggerAgain.genruntimeconfig.cache
+C:\Users\mkisk\Documents\Breadbugger\BreadbuggerAgain\BreadbuggerAgain\obj\Debug\net8.0\ref\BreadbuggerAgain.dll
